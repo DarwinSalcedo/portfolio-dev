@@ -17,7 +17,7 @@ const Navbar = () => {
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/darwin-salcedo/"
+              href="https://github.com/DarwinSalcedo"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex"
